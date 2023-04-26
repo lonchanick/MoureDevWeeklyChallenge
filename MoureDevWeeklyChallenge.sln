@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoureDevWeeklyChallenge", "MoureDevWeeklyChallenge.csproj", "{E99F692D-7DDE-4E8E-9979-4D913A25D249}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E99F692D-7DDE-4E8E-9979-4D913A25D249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E99F692D-7DDE-4E8E-9979-4D913A25D249}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E99F692D-7DDE-4E8E-9979-4D913A25D249}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E99F692D-7DDE-4E8E-9979-4D913A25D249}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F85C13A-C077-491B-B873-FF6FE29B2676}
+	EndGlobalSection
+EndGlobal
