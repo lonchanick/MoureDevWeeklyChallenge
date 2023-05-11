@@ -50,7 +50,10 @@ public class wordsList
         foreach(var word in words) 
         {
             if (word.Word.Equals(paramWord))
+            {
                 word.Count ++;
+                return;
+            }
         }
     }
 
@@ -72,7 +75,6 @@ public class Challenge7
 
     public static void exe()
     {
-        //string rawString = "hola mundo como estas una vez mas hola mundo como estas string algo mas vez para variar string";
         Console.WriteLine("Escribe algo cctm :@ !! ");
         string rawString = Console.ReadLine();
         var words = rawString.Split(" ");
