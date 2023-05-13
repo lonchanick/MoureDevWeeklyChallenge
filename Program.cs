@@ -9,5 +9,10 @@ public class Program
     {
         //Challenge6.exe();
         //Challenge7.exe();
+        for(int i=0; i<=20;i++)
+            Challenge8.exe(i);
+        
+
+
     }
 }
